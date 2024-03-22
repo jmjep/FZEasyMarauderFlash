@@ -1,8 +1,2 @@
-gitpython
-glob2
-pyserial
-requests
---only-binary :all: --extra-index-url https://dl.espressif.com/pypi/ reedsolo
-esptool
-colorama
-argparse
+
+c:\Users\Jmj\Downloads\CP210x_Universal_Windows_Driver\arm64 c:\Users\Jmj\Downloads\CP210x_Universal_Windows_Driver\x64 c:\Users\Jmj\Downloads\CP210x_Universal_Windows_Driver\x86 c:\Users\Jmj\Downloads\CP210x_Universal_Windows_Driver\arm
